@@ -34,7 +34,7 @@ I've trained through industry programs at NTI, DEPI, ITI, GUPCO, and Khalda Petr
 
 * **🛒 E-Commerce Recommendation & Sentiment Analysis Pipeline**  
   End-to-end data mining pipeline on 1,200+ Amazon products — Apriori association rule mining (1,900+ rules), PageRank link analysis for product importance, and a pre-trained BERT model for review sentiment analysis. Deployed as a real-time interactive Gradio web app.  
-  `Python` `mlxtend` `NetworkX` `Transformers (BERT)` `Gradiated`
+  `Python` `mlxtend` `NetworkX` `Transformers (BERT)` `Gradio`
 
 * **🎵 Spotify Audio Trends Dashboard**  
   Full-stack interactive analytics dashboard on 11,000+ Spotify tracks — 13 chart types covering genre popularity, audio feature relationships, and duration-based trends, with a reproducible ETL pipeline and live multi-filter callbacks.  
@@ -49,7 +49,7 @@ I've trained through industry programs at NTI, DEPI, ITI, GUPCO, and Khalda Petr
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yussefamiraboeldahab-afk&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yussefamiraboeldahab-afk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 ---

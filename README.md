@@ -35,17 +35,17 @@ I've trained through industry programs at NTI, DEPI, ITI, GUPCO, and Khalda Petr
 * **🛒 E-Commerce Recommendation & Sentiment Analysis Pipeline**  
   End-to-end data mining pipeline on 1,200+ Amazon products — Apriori association rule mining (1,900+ rules), PageRank link analysis for product importance, and a pre-trained BERT model for review sentiment analysis. Deployed as a real-time interactive Gradio web app.  
   `Python` `mlxtend` `NetworkX` `Transformers (BERT)` `Gradio`  
-  👉 **[View Repository 🔗](https://github.com/yussefamiraboeldahab-afk/ecommerce-recommendation-sentiment-system)**
+  👉 **[View Repository 🔗](https://github.com/youssefamiraboeldahab-afk/ecommerce-recommendation-sentiment-system)**
 
 * **🎵 Spotify Audio Trends Dashboard**  
   Full-stack interactive analytics dashboard on 11,000+ Spotify tracks — 13 chart types covering genre popularity, audio feature relationships, and duration-based trends, with a reproducible ETL pipeline and live multi-filter callbacks.  
   `Python` `Plotly Dash` `Pandas`  
-  👉 **[View Repository 🔗](https://github.com/yussefamiraboeldahab-afk/spotify-audio-trends-dashboard)**
+  👉 **[View Repository 🔗](https://github.com/youssefamiraboeldahab-afk/spotify-audio-trends-dashboard)**
 
 * **📊 Retail Sales Performance & Behavioral EDA**  
   End-to-end EDA on 2,100+ retail sales records across 830 unique customer orders — univariate, bivariate, and multivariate analysis uncovering that high-AOV markets outperform high-volume cities, informing targeted market strategy.  
   `Python` `Pandas` `Plotly` `Seaborn`  
-  👉 **[View Repository 🔗](https://github.com/yussefamiraboeldahab-afk/retail-sales-eda)**
+  👉 **[View Repository 🔗](https://github.com/youssefamiraboeldahab-afk/retail-sales-eda)**
 
 ---
 

@@ -46,10 +46,10 @@ I've trained through industry programs at NTI, DEPI, ITI, GUPCO, and Khalda Petr
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yussefamiraboeldahab-afk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yussefamiraboeldahab-afk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---

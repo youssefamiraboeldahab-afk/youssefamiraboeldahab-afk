@@ -46,14 +46,6 @@ I've trained through industry programs at NTI, DEPI, ITI, GUPCO, and Khalda Petr
 
 ---
 
-### 🏆 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yussefamiraboeldahab-afk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 I'm always open to discussing data science, machine learning projects, or opportunities. Feel free to reach out via LinkedIn or email.
